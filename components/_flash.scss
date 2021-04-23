@@ -12,20 +12,19 @@
 }
 
 .flash-notice {
-  background: #fecf7d;
-  color: #bb7700;
+  background: $notice-light;
+  color: $notice;
   button {
-    background: #fecf7d;
-    color: #bb7700;
+    background: $notice-light;
+    color: $notice;
   }
 }
 
 .flash-alert {
-  background: #b34045;
+  background: $alert;
   color: #fff;
   button {
-    background: #b34045;
+    background: $alert;
     color: #fff;
   }
 }
-
