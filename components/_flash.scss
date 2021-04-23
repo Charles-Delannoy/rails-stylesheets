@@ -1,0 +1,29 @@
+.flash {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  padding: 10px 20px;
+  border-radius: 15px 3px 0px 3px;
+  button {
+    border: none;
+    margin-left: 5px;
+  }
+}
+
+.flash-notice {
+  background: #fecf7d;
+  color: #bb7700;
+  button {
+    background: #fecf7d;
+    color: #bb7700;
+  }
+}
+
+.flash-alert {
+  background: #b34045;
+  color: #fff;
+  button {
+    background: #b34045;
+    color: #fff;
+  }
+}
